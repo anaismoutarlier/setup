@@ -1,0 +1,9 @@
+{
+  "private": true,
+  "dependencies": {
+    "node-fetch": "2"
+  },
+  "scripts": {
+    "update": "node .githooks/pre-pull"
+  }
+}
